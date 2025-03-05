@@ -1,0 +1,17 @@
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.Form1.resources
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.csproj.GenerateResource.cache
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.AssemblyInfoInputs.cache
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.AssemblyInfo.cs
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.csproj.CoreCompileInputs.cache
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\bin\Debug\net8.0-windows\ceaserCipher101.exe
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\bin\Debug\net8.0-windows\ceaserCipher101.deps.json
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\bin\Debug\net8.0-windows\ceaserCipher101.runtimeconfig.json
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\bin\Debug\net8.0-windows\ceaserCipher101.dll
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\bin\Debug\net8.0-windows\ceaserCipher101.pdb
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.dll
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\refint\ceaserCipher101.dll
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.pdb
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.genruntimeconfig.cache
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ref\ceaserCipher101.dll
+C:\Users\A0031976\Desktop\ceaserCipherProject\ceaserCipher101\obj\Debug\net8.0-windows\ceaserCipher101.sourcelink.json
