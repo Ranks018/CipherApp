@@ -1,7 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
-        
+
         {
             // Use IntelliSense to find out which attributes exist for C# debugging
             // Use hover for the description of the existing attributes
@@ -22,37 +22,11 @@
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
-        }
-
-
-              {
-                "name": "netlify dev",
-                "type": "node",
-                "request": "launch",
-                "skipFiles": ["<node_internals>/**"],
-                "outFiles": ["${workspaceFolder}/.netlify/functions-serve/**/*.js"],
-                "program": "${workspaceFolder}/node_modules/.bin/netlify",
-                "args": ["dev"],
-                "console": "integratedTerminal",
-                "env": { "BROWSER": "none" },
-                "serverReadyAction": {
-                  "pattern": "Server now ready on (https?://[\\w:.-]+)",
-                  "uriFormat": "%s",
-                  "action": "debugWithChrome"
-                }
-              },
-              {
-                "name": "netlify functions:serve",
-                "type": "node",
-                "request": "launch",
-                "skipFiles": ["<node_internals>/**"],
-                "outFiles": ["${workspaceFolder}/.netlify/functions-serve/**/*.js"],
-                "program": "${workspaceFolder}/node_modules/.bin/netlify",
-                "args": ["functions:serve"],
-                "console": "integratedTerminal"
-              }
-            
+        }    
           
           
     ]
+    
 }
+
+  
