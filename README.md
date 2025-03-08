@@ -9,11 +9,13 @@ The CipherApp is a utility app and also an educational tool, it encodes and deco
 <li>If Vigenere Cipher is selected, the user is able to enter alphebetical text as their key to encode or decode text.</li>
 </ul>
 
-<h3>Planned features to be added soon</h3>
+<h3>Planned features and goals to be added to the project</h3>
 <ul>
   <li>Adding other encryption methods</li>
   <li>Allowing for encryption of files</li>
   <li>Securing the app with user authentication</li>
   <li>Content explaining how this encryption methods work</li>
+  <br>
+  <li>Potentially convert to an ASP.NET</li>
 </ul>
 
