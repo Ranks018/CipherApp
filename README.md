@@ -24,8 +24,8 @@ The CipherApp is a utility app and also an educational tool, it encrypts and dec
 <table>
   <thead>
     <tr>
-      <th>Screenshot</th>
-      <th>Description</th>
+      <th width="80%">Screenshot</th>
+      <th width="20%">Description</th>
     </tr>
   </thead>
   <tbody>
