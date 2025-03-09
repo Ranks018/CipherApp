@@ -3,8 +3,8 @@
 <h3>Project Description</h3>
 The CipherApp is a utility app and also an educational tool, it encrypts and decrypts alphabetical text using either Caesar Cipher or Vigenere Cipher method.
 <ul>
-<li><b>The CipherApp was built using C# and Windows Forms(.NET Framework)</li>
-  <br>
+<li>The CipherApp was built using C# and Windows Forms(.NET Framework)</li>
+<br>
 <li>If Caeser Cipher is selected, the user is able to enter any key shift value from 1 to 25 to encrypt or decrypt text.</li>
 <li>If Vigenere Cipher is selected, the user is able to enter alphebetical text as their key to encrypt or decrypt text.</li>
 </ul>
@@ -14,7 +14,7 @@ The CipherApp is a utility app and also an educational tool, it encrypts and dec
   <li>Adding other encryption methods</li>
   <li>Allowing for encryption of files</li>
   <li>Securing the app with user authentication</li>
-  <li>Content explaining how this encryption methods work</li>
+  <li>Content tab explaining how these encryption methods work</li>
   <br>
   <li>Potentially convert to an ASP.NET</li>
 </ul>
